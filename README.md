@@ -1,4 +1,4 @@
-#ESG Risk Analytics: Climate Risk Monitoring and Site Prioritisation for Business Operations in Australia
+#ESG Risk Analytics: Climate Risk Monitoring and Site Prioritisation for Business Operations in Australia#
 
 Built a synthetic ESG risk analytics project using Python and Power BI to develop risk scores, analyse site-level risk patterns, and create a dashboard for watchlist monitoring and site prioritisation across Australian business sites. The project included data cleaning, feature engineering, composite risk scoring, segmentation analysis, and dashboard design for internal decision support.
 
